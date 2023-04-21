@@ -1,6 +1,6 @@
 {
   "name": "ArduCRSF-RH",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Arduino library for communicating with external module via CRSF protocol (just like radio handset do)",
   "keywords": "CRSF, ELRS, Crossfire, Radio Control, RC, Radio Handset",
   "repository": {
